@@ -1,0 +1,18 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore configuration files that contain sensitive information
+config.py
+
+# Ignore Chrome files
+Chrome/
+
+# Ignore json and txt files that contain sensitive information
+jarvis-439022-4d1ff61a47ab.json
+oauth.json
+yt_cookies.json
+ytcookies.txt
+
+# Add any other files or directories you want to ignore
+*.log
+*.env
